@@ -10,6 +10,8 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
 
           workflow works
+          <br/>
+          Magic Happening 🚀
         </p>
         <a
           className="App-link"
